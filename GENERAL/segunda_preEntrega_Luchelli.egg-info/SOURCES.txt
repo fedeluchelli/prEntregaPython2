@@ -1,0 +1,7 @@
+setup.py
+paquete/__init__.py
+paquete/main.py
+segunda_preEntrega_Luchelli.egg-info/PKG-INFO
+segunda_preEntrega_Luchelli.egg-info/SOURCES.txt
+segunda_preEntrega_Luchelli.egg-info/dependency_links.txt
+segunda_preEntrega_Luchelli.egg-info/top_level.txt
